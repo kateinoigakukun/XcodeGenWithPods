@@ -84,3 +84,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 
+# Bundler
+vendor/bundle
